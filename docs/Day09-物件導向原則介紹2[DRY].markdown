@@ -18,10 +18,10 @@
   
 根據Andrew Hunt及David Thomas所合著的The Pragmatic Programmer一書中將DRY分成四大部分：
   
-1.加強重複(Imposed duplication)
-2.無意的重複(inadvertent duplication)
-3.無耐心的重複(impatient duplication)
-4.開發者之間的重複(inter-developer duplication
+1. 加強重複(Imposed duplication)
+2. 無意的重複(inadvertent duplication)
+3. 無耐心的重複(impatient duplication)
+4. 開發者之間的重複(inter-developer duplication
   
 無論是哪一種重複，基本上對軟體的傷害其實都不小，所要負擔的維護成本也相對的高很多。
   
