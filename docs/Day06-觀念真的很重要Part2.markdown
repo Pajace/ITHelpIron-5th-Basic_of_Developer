@@ -1,3 +1,6 @@
+觀念真的很重要 Part2
+====================
+
 今天想要介紹的是IDE的觀念篇!! IDE不是神，但是有IDE幫忙卻有如神助!!
 
 IDE(integrated development environment)，也是我們在開發程式時的最常用的工具。例如: Visual Studio或Eclipse或DEV-C++ …等，這些開發工具就稱為IDE。

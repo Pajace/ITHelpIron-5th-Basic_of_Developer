@@ -1,3 +1,5 @@
+#UML介紹 3-關係(2)
+
 今天接著介紹在UML中的 Association(結合關係), Generalization(一般化) 和 Implementation(實做)的圖形。
   
 ### Association（結合關係）
