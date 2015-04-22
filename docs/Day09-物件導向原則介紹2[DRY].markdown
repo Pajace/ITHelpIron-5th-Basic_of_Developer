@@ -34,7 +34,7 @@
   
 看看下面的C++範例：
 
-```cpp .h檔
+```c++
 // 計算圓形場地面積  
 // radius: 半徑  
 // return: 面積  
@@ -51,7 +51,7 @@ double CalculateRectangleArea(double width, double length);
 double CalculateTriangleArea(double base, double height);  
 ```
   
-```c++ .cpp 檔
+```c++
 // 計算圓形場地面積  
 // radius: 半徑  
 // return: 面積  
@@ -110,7 +110,7 @@ double CalculateTriangleArea(double base, double height){
   
 先來看個例子吧！有沒有看出什麼問題呢？
   
-```
+```c++
 class 正方體 {  
     public double 長 { get; set; }  
     public double 寬 { get; set; }  
