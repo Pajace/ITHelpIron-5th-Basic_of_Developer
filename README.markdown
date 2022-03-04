@@ -28,7 +28,7 @@
 * [Day23 寫程式就像寫文章-副標題](docs/Day23-寫程式就像寫文章-副標題.markdown)
 * [Day24 寫程式就像寫文章-註解&註釋](docs/Day24-寫程式就像寫文章-註解&註釋.markdown)
 * [Day25 專案版本控制 Part I](docs/Day25-%E5%B0%88%E6%A1%88%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%20Part%20I.markdown)
-* [Day26 專案版本控制 Part II](docs/Day26-專案版本控制 Part II.markdown)
+* [Day26 專案版本控制 Part II](docs/Day26-%E5%B0%88%E6%A1%88%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%20Part%20II.markdown)
 * [Day27 寫程式就像寫文章-排版](docs/Day27-寫程式就像寫文章-排版.markdown)
 * [Day28 誰來保證你的軟體品質](docs/Day28-誰來保證你的軟體品質.markdown)
 * [Day29 C++測試框架介紹](docs/Day29-C++測試框架介紹.markdown)
